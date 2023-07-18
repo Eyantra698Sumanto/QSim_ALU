@@ -1,11 +1,30 @@
 # QSim_ALU
 This repository contains Qiskit code to simulate an ALU using QSim
+## Table of Contents
+- [Steps to run the code](#steps-to-run-the-code)
+- [Code Description](#code-description)
+  * [Import packages](#import-packages)
+  * [Create quantum and classical registers](#create-quantum-and-classical-registers)
+  * [Create quantum circuit](#create-quantum-circuit)
+  * [Set inputs](#set-inputs)
+  * [Convert inputs to binary strings](#convert-inputs-to-binary-strings)
+  * [Set input bits](#set-input-bits)
+  * [Perform ALU operations](#perform-alu-operations)
+  * [Measure the output bits](#measure-the-output-bits)
+  * [Execute the circuit on the density matrix simulator](#execute-the-circuit-on-the-density-matrix-simulator)
+  * [Print the density matrix of the final state](#print-the-density-matrix-of-the-final-state)
+- [Output](#output)
+  * [Quantum circuit for addition](#quantum-circuit-for-addition)
+  * [QSim Output](#qsim-output)
+- [Contributer](#contributer)
+
 ## Steps to run the code
 1. Register on the QSim Portalhttps://qctoolkit.in)
 2. Log in to QSim along with your given Username and Password.
 3. Paste the [code](https://github.com/Eyantra698Sumanto/QSim_ALU/blob/main/code/ALU.py) in the QSim editor.
+<img src=https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/1f2eb3c9-07b8-4bf6-b5fa-ea5eca3cc996 width=100/>
    ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/1f2eb3c9-07b8-4bf6-b5fa-ea5eca3cc996)
-4. Click on the run circuit button:
+5. Click on the run circuit button:
    ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/9e5f7ab5-6ab7-43ca-af68-1763f2d6a12b)
 
 ## Code Description
@@ -80,3 +99,4 @@ print(density_matrix)
 
 ## Contributer
 Sumanto Kar
+jeetsumanto123@gmail.com
