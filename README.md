@@ -3,8 +3,8 @@ This repository contains Qiskit code to simulate an ALU using QSim
 ## Steps to run the code
 1. Register on the QSim Portalhttps://qctoolkit.in)
 2. Log in to QSim along with your given Username and Password.
-3. Paste the <alt="drawing" width="200"/>[code](https://github.com/Eyantra698Sumanto/QSim_ALU/blob/main/code/ALU.py) in the QSim editor.
-   ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/1f2eb3c9-07b8-4bf6-b5fa-ea5eca3cc996)
+3. Paste the [code](https://github.com/Eyantra698Sumanto/QSim_ALU/blob/main/code/ALU.py) in the QSim editor.
+   ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/1f2eb3c9-07b8-4bf6-b5fa-ea5eca3cc996)<alt="drawing" width="50"/>
 4. Click on the run circuit button:
    ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/9e5f7ab5-6ab7-43ca-af68-1763f2d6a12b)
 
