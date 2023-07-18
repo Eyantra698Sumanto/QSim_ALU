@@ -76,5 +76,7 @@ print(density_matrix)
 ### Quantum circuit for addition
 ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/f251f7ef-a8a2-4264-9f39-a5c70b93ad86)
 ### Output
+![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/b276fc1e-521c-41d9-83fb-c8eb020ce920)
+
 ## Contributer
 Sumanto Kar
