@@ -25,7 +25,7 @@ This repository contains Qiskit code to simulate an ALU using QSim
 <img src=https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/1f2eb3c9-07b8-4bf6-b5fa-ea5eca3cc996 width=800>
 </br>
 5. Click on the run circuit button:
-![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/9e5f7ab5-6ab7-43ca-af68-1763f2d6a12b width=800)
+![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/9e5f7ab5-6ab7-43ca-af68-1763f2d6a12b)
 </br>
 </br>
 ## Code Description
