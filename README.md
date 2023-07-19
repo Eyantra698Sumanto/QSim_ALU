@@ -34,7 +34,8 @@ This repository contains Qiskit code to simulate an ALU using QSim
 5. Now all the cells will be run!
 ## Code Description
 ### Import packages
-```from qiskit import QuantumRegister, ClassicalRegister
+```
+from qiskit import QuantumRegister, ClassicalRegister
 from qiskit import QuantumCircuit, execute, BasicAer
 import numpy as np
 ```
@@ -48,7 +49,8 @@ c = ClassicalRegister(10, 'c')  # Output registers
 qc = QuantumCircuit(q, c)
 ```
 ### Set inputs
-```input_1 = 5
+```
+input_1 = 5
 input_2 = 3
 operation = 'Multiplication'
 ```
@@ -83,19 +85,22 @@ Example of Addition:
   qc.ccx(q[3], q[4], q[0])  # AND
 ```
 ### Measure the output bits
-```qc.measure(q[0], c[0])
+```
+qc.measure(q[0], c[0])
 qc.measure(q[1], c[1])
 qc.measure(q[4], c[2])
 qc.measure(q[2], c[3])
 ```
 ### Execute the circuit on the density matrix simulator
-```backend = BasicAer.get_backend('dm_simulator')
+```
+backend = BasicAer.get_backend('dm_simulator')
 job = execute(qc, backend=backend, **options)
 job_result = job.result()
 ```
 
 ### Print the density matrix of the final state
-```density_matrix = job_result.results[0].data.densitymatrix
+```
+density_matrix = job_result.results[0].data.densitymatrix
 print(density_matrix)
 ```
 ## Output
