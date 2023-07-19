@@ -19,12 +19,18 @@ This repository contains Qiskit code to simulate an ALU using QSim
 - [Contributer](#contributer)
 
 ## Steps to run the code
+### Using QSim
 1. Register on the QSim Portalhttps://qctoolkit.in)
 2. Log in to QSim along with your given Username and Password.
 3. Paste the **[Code](https://github.com/Eyantra698Sumanto/QSim_ALU/blob/main/code/ALU.py)** in the QSim editor.</br>
  ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/1f2eb3c9-07b8-4bf6-b5fa-ea5eca3cc996)
 5. Click on the run circuit button:
 ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/9e5f7ab5-6ab7-43ca-af68-1763f2d6a12b)
+### Using Blender
+1. Run Blender by clicking on the following [LINK](https://mybinder.org/v2/gh/indian-institute-of-science-qc/qiskit-aakash/bea98fbff86c234c0b1990add17493a1e86917cb?labpath=dm_simulator_user_guide)
+2. Open a New Notebook
+3. Upload the .ipynb file at following [LINK](https://github.com/Eyantra698Sumanto/QSim_ALU/blob/main/code/alu.ipynb)
+4. Click on **Restart Kernal and All Cells** button
 ## Code Description
 ### Import packages
 ```from qiskit import QuantumRegister, ClassicalRegister
@@ -98,3 +104,4 @@ print(density_matrix)
 ## Contributer
 Sumanto Kar
 jeetsumanto123@gmail.com
+## Thank You!
