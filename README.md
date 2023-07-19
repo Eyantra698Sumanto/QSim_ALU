@@ -77,8 +77,8 @@ for i, bit in enumerate(bin_input_2):
 5. XOR
 6. AND
 7. OR
-8. NOT
-Example of Addition:
+8. NOT</br>
+**Example of Addition:**
 ```
   qc.cx(q[3], q[0])  # Swap q[3] and q[0]
   qc.cx(q[4], q[0])  # XOR
