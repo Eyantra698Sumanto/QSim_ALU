@@ -27,10 +27,11 @@ This repository contains Qiskit code to simulate an ALU using QSim
 5. Click on the run circuit button:
 ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/9e5f7ab5-6ab7-43ca-af68-1763f2d6a12b)
 ### Using Blender
-1. Run Blender by clicking on the following [LINK](https://mybinder.org/v2/gh/indian-institute-of-science-qc/qiskit-aakash/bea98fbff86c234c0b1990add17493a1e86917cb?labpath=dm_simulator_user_guide)
-2. Open a New Notebook
-3. Upload the .ipynb file at following [LINK](https://github.com/Eyantra698Sumanto/QSim_ALU/blob/main/code/alu.ipynb)
-4. Click on **Restart Kernal and All Cells** button
+1. Run Blender by clicking on the following **[LINK](https://mybinder.org/v2/gh/indian-institute-of-science-qc/qiskit-aakash/bea98fbff86c234c0b1990add17493a1e86917cb?labpath=dm_simulator_user_guide)**.
+2. Open a New Notebook.
+3. Upload the .ipynb file at following **[LINK](https://github.com/Eyantra698Sumanto/QSim_ALU/blob/main/code/alu.ipynb)**.
+4. Click on **Restart Kernal and All Cells** button.
+5. Now all the cells will be run!
 ## Code Description
 ### Import packages
 ```from qiskit import QuantumRegister, ClassicalRegister
