@@ -39,11 +39,13 @@ from qiskit import QuantumCircuit, execute, BasicAer
 import numpy as np
 ```
 ### Create quantum and classical registers
-```q = QuantumRegister(10, 'q')
+```
+q = QuantumRegister(10, 'q')
 c = ClassicalRegister(10, 'c')  # Output registers
 ```
 ### Create a quantum circuit
-```qc = QuantumCircuit(q, c)
+```
+qc = QuantumCircuit(q, c)
 ```
 ### Set inputs
 ```input_1 = 5
