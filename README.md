@@ -42,7 +42,7 @@ import numpy as np
 ```q = QuantumRegister(10, 'q')
 c = ClassicalRegister(10, 'c')  # Output registers
 ```
-### Create quantum circuit
+### Create a quantum circuit
 ```qc = QuantumCircuit(q, c)
 ```
 ### Set inputs
