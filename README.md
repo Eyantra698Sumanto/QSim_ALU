@@ -1,3 +1,4 @@
+# Quantum Computing Hackathon by CDAC
 # QSim_ALU
 This repository contains Qiskit code to simulate an ALU using QSim
 ## Table of Contents
@@ -108,8 +109,13 @@ print(density_matrix)
 ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/f251f7ef-a8a2-4264-9f39-a5c70b93ad86)
 ### QSim Output 
 ![image](https://github.com/Eyantra698Sumanto/QSim_ALU/assets/58599984/b276fc1e-521c-41d9-83fb-c8eb020ce920)
-
+## Acknowlgements
+1. CDAC Team
+2. IIT Roorkee
+3. IISc Bangalore
+4. All other organizers
 ## Contributer
-Sumanto Kar
-jeetsumanto123@gmail.com
+Sumanto Kar</br>
+Student and Project Staff, IIT Bombay
+Contact: jeetsumanto123@gmail.com
 ## Thank You!
