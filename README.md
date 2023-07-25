@@ -1,4 +1,4 @@
-# Quantum Computing Hackathon by CDAC
+# Quantum Computing Hackathon July 2023 by CDAC
 # QSim_ALU
 This repository contains Qiskit code to simulate an ALU using QSim
 ## Table of Contents
